@@ -103,14 +103,16 @@ For more details on the IEEE VIS Junior Reviewer program, see this [guide](/year
 
 ## Page Length Restrictions
 
-Paper length may be up to a maximum of nine (9) pages with additional two (2) pages allowed only for additional material. Authors can make use of more than two pages for additional material if the total is still within the 11 (9+2) page limit. Please ensure that your submission contains no content except additional material on the (optional) 10th and 11th pages.
+Paper length may be up to a maximum of nine (9) pages with additional two (2) pages allowed only for (mainly) references (see details below). Authors can make use of more than two pages for references if the total is still within the 11 (9+2) page limit. Please ensure that your submission contains no content except references (and special sections, as outlined next) on the (optional) 10th and 11th pages.
 
-The additional material on the final two pages can include references, links to the supplemental material, figure credits, and acknowledgements sections. Note that the supplemental material section in the paper should only include pointers to the material and explanation of what is included in that material, not the material itself; similarly, figure credits should only include credits and copyright statements, not actual figure material (images or captions).
+The material on the final two pages can include references, links to the supplemental material, figure credits, and acknowledgements sections. Note that these special section should only include pointers to the additional material and explanation of what is included in that material, not the material itself; similarly, figure credits should only include credits and copyright statements, not actual figure material (images or captions).
 
-Manuscripts that are submitted with non-reference content such as other text, figures, or tables beyond 9 pages may be desk rejected. If authors would like to make use of more than two pages for references (in addition to at most 9 pages of content), resulting in more than 11 pages in total, special justifications must be provided with the submission. Approval for extra reference pages is given by TVCG and is not guaranteed, so it is recommended to contact the OPCs in advance of submission.
+Manuscripts that are submitted with non-reference content such as other text, main-paper figures, or main-paper tables beyond 9 pages may be desk rejected. If authors would like to make use of more than two pages for references (in addition to at most 9 pages of content), resulting in more than 11 pages in total, special justifications must be provided with the submission. Approval for extra reference pages is given by TVCG and is not guaranteed, so it is recommended to contact the OPCs in advance of submission.
 
 Papers may be shorter than 9 pages but still present a significant contribution. A paper does not have to include two full pages of references, but the generous allocation of these pages is meant to signify the importance that IEEE VIS attaches to authors fully anchoring their work in both its full academic context and the state of the art.
 The size limit for each submitted file is 300 MB.
+
+Please note that these page length restrictions only refer to the main (core) part of the paper. The submitted PDF may contain an **appendix** (with additional material beyond the core paper) beyond the 11th page, for details see the [next section](#supplemental-material).
 
 ## Supplemental Material
 
@@ -144,7 +146,7 @@ When submitting your abstract (for the March 21 deadline) you will be asked to p
 
 Submissions will be treated as confidential communications during the review process, and thus submissions do not constitute public disclosure of any ideas therein. Submissions should contain no information or materials that will be proprietary or confidential at the time of publication (at the conference), and should cite no publications that are proprietary or confidential at the time of publication.
 
-Each full paper accepted at IEEE VIS 2026 will be required to be presented by one of the authors. All presenters are required to register as a speaker. Diversity and inclusivity scholarships will be available to support the participation of speakers with financial needs.
+Each full paper accepted at IEEE VIS 2026 will be required to be presented by one of the authors. All presenters are required to register as a speaker. Diversity and inclusivity scholarships will be available to support the participation of speakers with financial needs. Authors will have the option to present their work either in person or via a pre-recorded talk. Pre-recorded talks will be integrated into the paper sessions alongside in-person presentations. Upon final acceptance, authors will be asked to indicate whether they will present in person or submit a pre-recorded video. Additional details regarding video recording requirements will be provided after acceptance.
 
 ## Opt-in Publishing of Anonymized Reviews
 
@@ -154,7 +156,7 @@ In practice, during final submission of the camera-ready version of your accepte
 
 ## Use of Generative AI in Paper Writing
 
-The use of content generated by artificial intelligence (AI) in an article (including but not limited to text, figures, images, and code) shall be disclosed in any article submitted to an IEEE publication. The AI system used shall be identified, and specific sections of the article that use AI-generated content shall be identified and accompanied by a brief explanation regarding the level at which the AI system was used to generate the content.
+The use of content generated by artificial intelligence (AI) in an article (including but not limited to text, figures, images, and code) shall be disclosed in [any article submitted to an IEEE publication](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/). The AI system used shall be identified, and specific sections of the article that use AI-generated content shall be identified and accompanied by a brief explanation regarding the level at which the AI system was used to generate the content.
 
 Note that the use of AI systems for editing and grammar enhancement is common practice and, as such, is generally outside the intent of the above policy. In this case, disclosure as noted above is optional.
 
